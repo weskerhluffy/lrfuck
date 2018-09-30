@@ -4,6 +4,8 @@ Created on 22/05/2018
 @author: ernesto
 '''
 
+# XXX: https://www.hackerrank.com/contests/justcode/challenges/lru-implementtion/problem
+
 # XXX: http://code.activestate.com/recipes/522995-priority-dict-a-priority-queue-with-updatable-prio/
 from heapq import heapify, heappush, heappop
 
